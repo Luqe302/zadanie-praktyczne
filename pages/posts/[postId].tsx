@@ -1,5 +1,3 @@
-import {Posts} from "@/posts/views/Posts/Posts";
-import {GetPosts} from "@/posts/components/GetPosts/GetPosts";
 import {postsApi} from "@/posts/utils/postsApi";
 import {Post as PostComponent} from "@/posts/components/Post/Post";
 import {Post} from "@/posts/hooks/usePostsApi/usePostsApi.types";

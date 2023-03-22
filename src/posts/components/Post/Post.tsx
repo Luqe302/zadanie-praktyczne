@@ -1,4 +1,4 @@
-import { useRouter } from 'next/router';
+import {useRouter} from 'next/router';
 import {PostProps} from "@/posts/components/Post/Post.types";
 import * as S from './Post.styles';
 import {usePostsApi} from "@/posts/hooks/usePostsApi/usePostsApi";
